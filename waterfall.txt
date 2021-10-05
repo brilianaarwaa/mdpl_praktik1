@@ -11,7 +11,6 @@ kelebihan metode waterfall ;
 -dapat menghemat biaya
 -digunakan untuk penembangan software bersekala besar
 kelemahan dari metode waterfall :
--membutuhkan tim yang solid
 -masih kurangnya fleksibilitas
 -tidak dapat melihat gambaran sistem dengan jelas
 -membutuhkan waktu yang lebih lama
