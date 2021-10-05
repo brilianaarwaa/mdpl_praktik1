@@ -1,0 +1,7 @@
+metode waterfall adalah salah satu jenis model pengembangan aplikasi dan termasuk kedalam life cycle, yang mana menekankan pada fase berurutan.
+tahapan model waterfall ;
+-requirement
+-design
+-implementation
+-integration & testing
+-operation & maintenance
