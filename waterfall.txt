@@ -5,3 +5,8 @@ tahapan model waterfall ;
 -implementation
 -integration & testing
 -operation & maintenance
+kelebihan metode waterfall ;
+-workflow yang jelas
+-hasil dokumentasi yang baik
+-dapat menghemat biaya
+-digunakan untuk penembangan software bersekala besar
