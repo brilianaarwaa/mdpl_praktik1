@@ -1,1 +1,2 @@
 pertemuan 2
+membahas mengenai merge di github
